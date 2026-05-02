@@ -7,7 +7,7 @@ I am a technical and analytical profile focused on information architecture, use
 *   **Specialty:** User Experience Design (UX), Information Architecture, and Data Analysis.
 *   **Approach:** A hybrid between technology, visual logic, and psychology. I understand how the human brain processes a system and translate that into highly efficient structures.
 *   **Current Research:** Dissecting the ethics and cognitive impact of digital design through my technical research on **Dark Patterns**.
-*   **Strategic Background:** Master's in UX (UC3M), backed by a foundation in Audiovisual Communication
+*   **Background:** Master's in UX (UC3M), backed by a foundation in Audiovisual Communication
 
 ## 🛠️ Tools & Ecosystem
 
