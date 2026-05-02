@@ -1,16 +1,26 @@
-## Hi there 👋
+# 🦉 UX Strategist & Data Analyst
 
-<!--
-**Georj01/Georj01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a technical and analytical profile focused on information architecture, user strategy, and complex problem-solving. I operate under a strictly minimalist philosophy: efficiency over visual noise or garbage code. 
 
-Here are some ideas to get you started:
+## 🧠 Core Operations
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*   **Specialty:** User Experience Design (UX), Information Architecture, and Data Analysis.
+*   **Approach:** A hybrid between technology, visual logic, and psychology. I understand how the human brain processes a system and translate that into highly efficient structures.
+*   **Current Research:** Dissecting the ethics and cognitive impact of digital design through my technical research on **Dark Patterns**.
+*   **Strategic Background:** Master's in UX (UC3M), backed by a foundation in Audiovisual Communication
+
+## 🛠️ Tools & Ecosystem
+
+*   **UX/UI & Prototyping:** Figma
+*   **Data & Analysis:** Python, SQL and R
+*   **Management & Structure:** Jira and Notion
+*   **Programing:** C, C++ and Java
+*   **Web Design:** HTML, CSS and JavaScript
+
+## 🎯 Work Philosophy
+
+1.  **Radical Honesty:** If a design or code decision makes no logical sense, I will question it. 
+2.  **Tactical Pragmatism:** I look for real, measurable impact. Highly decisive and focused on viability.
+3.  **Minimalism:** Fewer screens, less noise, more functionality.
+
+*I am only a begginer who tries his best :)*
