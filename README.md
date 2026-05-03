@@ -1,8 +1,8 @@
-# 🦉 UX Strategist & Data Analyst
+#UX Strategist & Data Analyst
 
 I am a technical and analytical profile focused on information architecture, user strategy, and complex problem-solving. I operate under a strictly minimalist philosophy: efficiency over visual noise or garbage code. 
 
-## 🧠 Core Operations
+## 📖 Core Operations
 
 *   **Specialty:** User Experience Design (UX), Information Architecture, and Data Analysis.
 *   **Approach:** A hybrid between technology, visual logic, and psychology. I understand how the human brain processes a system and translate that into highly efficient structures.
