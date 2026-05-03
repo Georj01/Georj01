@@ -1,4 +1,4 @@
-#UX Strategist & Data Analyst
+# UX Strategist & Data Analyst
 
 I am a technical and analytical profile focused on information architecture, user strategy, and complex problem-solving. I operate under a strictly minimalist philosophy: efficiency over visual noise or garbage code. 
 
