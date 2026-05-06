@@ -17,10 +17,4 @@ I am a technical and analytical profile focused on information architecture, use
 *   **Programing:** C, C++ and Java
 *   **Web Design:** HTML, CSS and JavaScript
 
-## 🎯 Work Philosophy
-
-1.  **Radical Honesty:** If a design or code decision makes no logical sense, I will question it. 
-2.  **Tactical Pragmatism:** I look for real, measurable impact. Highly decisive and focused on viability.
-3.  **Minimalism:** Fewer screens, less noise, more functionality.
-
 *I am only a begginer who tries his best :)*
